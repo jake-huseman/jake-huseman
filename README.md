@@ -4,7 +4,9 @@
 
 ## 🚀 About Me
 
-🎓Bachelors in Computer Science from Iowa State University, May 2024. 🌍Cultured traveler and former exchange student in Dortmund, Germany. 🔧Passionate about building sleek, efficient software solutions.
+🎓Bachelors in Computer Science from Iowa State University, May 2024. 
+🌍Cultured traveler and former exchange student in Dortmund, Germany. 
+🔧Passionate about building sleek, efficient software solutions.
 
 ## 📖 Book Shelf
 

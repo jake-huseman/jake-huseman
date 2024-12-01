@@ -11,10 +11,11 @@
 ## 📖 Book Shelf
 
 ### ⏳Currently Reading
-- **"The C Programming Language" by Kernighan and Ritchie**
-- **"Computer Organization and Design ARM Edition" by Patterson and Hennessy**
+
 
 ### ✅Past Reads
+- **"The C Programming Language" by Kernighan and Ritchie**
+- **"Computer Organization and Design ARM Edition" by Patterson and Hennessy**
 - **"The Hobbyist's Guide to the RTL-SDR" by Carl Laufer**
 - **"Java Concurrency in Practice" by Brian Goetz**
 - **"Effective Java Third Edition" by Joshua Bloch**

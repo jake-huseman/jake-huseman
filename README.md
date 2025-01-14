@@ -1,4 +1,4 @@
-![Banner](https://via.placeholder.com/1200x300/00008B/FFFFFF/?text=Hi,+I'm+Jake+Huseman)
+![Banner](https://via.placeholder.com/1200x300/00008B/FFFFFF?text=Hi%2C+I%27m+Jake+Huseman)
 
 🌐 Waukee, Iowa | 📧 [Send me an Email](mailto:jakehuseman@outlook.com)
 
